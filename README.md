@@ -1,9 +1,15 @@
-# **Hey 👋🏽, I'm Zain Babar**
+# **Hi 👋🏽, I'm Zain Babar**
 ##### **An aspiring software engineer**
 
-🏫 1st year Computer Science and Business Administration double degree @ Wilfrid Laurier University
+🏫 1st year Computer Science and Business Administration student @ Wilfrid Laurier University
 
-📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/z-babar/)!
+💻 I enjoy creating tech solutions with people, for people
+
+🌐 Check out my website @ zainbabar.com
+
+📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/z-babar/)
+
+**Currently looking for Summer 2025 Internships!**
 
 <!--
 **ZainBabarr/ZainBabarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
