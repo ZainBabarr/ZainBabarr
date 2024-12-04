@@ -1,4 +1,4 @@
-## Hi 👋 , I'm Zain Babar - an aspiring software engineer
+I'm Zain Babar - an aspiring software engineer
 
 📫 Reach out to me on [LinkedIn](https://www.google.com)!
 
