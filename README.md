@@ -1,13 +1,11 @@
-# **Hi 👋🏽, I'm Zain Babar**
-##### **An aspiring software engineer**
+# **Hi 👋🏽, I'm Zain**
 
-🏫 1st year Computer Science and Business Administration student @ Wilfrid Laurier University
-
-💻 I enjoy creating tech solutions with people, for people
+I'm a 1st year Computer Science and Business Administration student @ Wilfrid Laurier University.
+I enjoy creating tech solutions with people, for people
 
 🌐 Check out my website @ zainbabar.com
-
-📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/z-babar/)
+💻 Check out my [projects](https://github.com/ZainBabarr?tab=repositories)!
+📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/z-babar/)!
 
 **Currently looking for Summer 2025 Internships!**
 
