@@ -1,5 +1,5 @@
 # **Hey 👋🏽, I'm Zain Babar**
-## **An aspiring software engineer**
+##### **An aspiring software engineer**
 
 🏫 1st year Computer Science and Business Administration double degree @ Wilfrid Laurier University
 
