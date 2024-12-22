@@ -11,7 +11,7 @@ I enjoy creating tech solutions with people, for people.
 
 🌐 Check out my website: [zainbabar.com](https://zainbabar.com)  
 
-📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/z-babar/)
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/z-babar/)
 
 **Currently looking for Summer 2025 Internships!**
 
