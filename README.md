@@ -1,6 +1,6 @@
 # Hi 👋🏽, I'm Zain
 
-I'm a 1st year Computer Science and Business Administration student @ Wilfrid Laurier University.
+I'm a Computer Science and Business Administration student @ Wilfrid Laurier University.
 
 I enjoy creating tech solutions with people, for people.
 
