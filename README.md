@@ -13,7 +13,7 @@ Check out my website: [zainbabar.com](https://zainbabar.com)
 
 Reach out to me on [LinkedIn](https://www.linkedin.com/in/z-babar/)
 
-**Currently looking for Summer 2025 Internships!**
+**Currently seeking Summer 2025 software development Internships!**
 
 <!--
 **ZainBabarr/ZainBabarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
