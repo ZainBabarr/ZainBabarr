@@ -1,4 +1,4 @@
-# Hi 👋🏽, I'm Zain
+# <p align="center">Hi 👋🏽, I'm Zain</p>
 
 I'm a Computer Science and Business Administration student @ Wilfrid Laurier University.
 
