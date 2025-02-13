@@ -9,9 +9,9 @@ I enjoy creating tech solutions with people, for people.
 - [AniCollection](https://anicollection.org/) - An online platform letting users create and share collaborative anime lists
 - [Eventify](https://eventify.one/) - View upcoming concerts and events of your top artists by connecting your Spotify account
 
-Check out my website: [zainbabar.com](https://zainbabar.com)  
+Check out my website @ [zainbabar.com](https://zainbabar.com)  
 
-Reach out on [LinkedIn](https://www.linkedin.com/in/z-babar/)
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/z-babar/)
 
 <!--
 **ZainBabarr/ZainBabarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
