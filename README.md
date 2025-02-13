@@ -11,7 +11,7 @@ I enjoy creating tech solutions with people, for people.
 
 Check out my website @ [zainbabar.com](https://zainbabar.com)  
 
-Reach out to me on [LinkedIn](https://www.linkedin.com/in/z-babar/)
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/zain-babar/)
 
 <!--
 **ZainBabarr/ZainBabarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
