@@ -2,8 +2,6 @@
 
 I'm a Computer Science and Business Administration student @ Wilfrid Laurier University.
 
-I love creating tech solutions with people, for people.
-
 ### Some things I've [made](https://github.com/ZainBabarr?tab=repositories):
 - [Daily Dose of Tech](https://x.com/Dose_ofTech) - An automated Twitter bot tweeting top posts from Reddit pages r/Apple and r/technews
 - [AniCollection](https://ani-collection.netlify.app/) - An online platform letting users create and share collaborative anime lists
