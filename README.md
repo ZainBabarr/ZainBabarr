@@ -1,4 +1,4 @@
-# <p align="center">Hi, I'm Zain</p>
+# <p align="center">Hi 👋🏼, I'm Zain</p>
 
 I'm a Computer Science and Business Administration student @ Wilfrid Laurier University.
 
@@ -7,6 +7,6 @@ I'm a Computer Science and Business Administration student @ Wilfrid Laurier Uni
 - [AniCollection](https://ani-collection.netlify.app/) - An online platform letting users create and share collaborative anime lists
 - [Eventify](https://eventifyfyi.netlify.app/) - View upcoming concerts and events of your top artists by connecting your Spotify account
 
-[My Website](https://zainbabar.com)  
+Check out my [website](https://zainbabar.com)  
 
-[Connect with Me](https://www.linkedin.com/in/zain-babar/)
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/zain-babar/)
