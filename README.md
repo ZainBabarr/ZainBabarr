@@ -9,4 +9,4 @@ I'm a Computer Science and Business Administration student @ Wilfrid Laurier Uni
 
 Check out my [website](https://zainbabar.com)  
 
-Reach out to me on [LinkedIn](https://www.linkedin.com/in/zain-babar/)
+Reach out on [LinkedIn](https://www.linkedin.com/in/zain-babar/)
