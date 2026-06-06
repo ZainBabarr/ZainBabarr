@@ -1,6 +1,6 @@
 # <p align="center">Hi 👋🏼, I'm Zain</p>
 
-I'm a Computer Science and Business Administration student @ Wilfrid Laurier University.
+I'm a Computer Science and Business Administration student @ Wilfrid Laurier University
 
 ### Some things I've:
 - [Daily Dose of Tech](https://x.com/Dose_ofTech) - An automated Twitter bot tweeting top posts from r/Apple and r/technews (50,000+ impressions)
